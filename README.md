@@ -1,2 +1,3 @@
 # JHDataScientist1
-First in Johns Hopkins Data Scientist classes in the Coursera sequence
+Second in Johns Hopkins Data Scientist classes in the Coursera sequence
+R Programming
